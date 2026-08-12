@@ -1,2 +1,8 @@
 # Blogger
-A minimal blog site that is easy to read and use for all.
+
+A blog site that informs the user of the new and improved tech
+that is out there.
+
+Language:
+- HTML
+- CSS
